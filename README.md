@@ -1,0 +1,6 @@
+# IPL-Dataset-Player-price-prediction
+
+*Predicting the SOLD PRICE (Auction Price) of Player
+
+The Indian Premier League was a professional league for Twenty20 (T20) cricket championships (see Exhibit 1) that was started in 2008 in India. The IPL was initiated by the BCCI with eight franchises comprising players from across the world. The first IPL auction was held in 2008 for ownership of the teams for 10 years, with a base price of USD 50 million. The franchises acquire players through an English auction that is conducted every year. However, there are several rules imposed by the IPL. For example, only international players and popular Indian players are auctioned.
+The performance of the players could be measured through several metrics. Although the IPL follows the Twenty20 format of the game, it is possible that the performance of the players in the other formats of the game such as Test and One- Day matches could influence player pricing. A few players had excellent records in Test matches, but their records in Twenty20 matches were not very impressive. The performance of 130 players who played in at least one season of the IPL(2008-2011) measured through various performance metrics are provided in the dataset.
